@@ -1,0 +1,18 @@
+body {
+	text-align: center;
+	background-color:mediumspringgreen;
+}
+
+#marqueestyle{
+    background: blueviolet;
+}
+#principal1{
+    color: darkblue;
+}
+#principal2{
+    color: darkgoldenrod;
+}
+#school_achivements{
+    float:right;
+    
+}
